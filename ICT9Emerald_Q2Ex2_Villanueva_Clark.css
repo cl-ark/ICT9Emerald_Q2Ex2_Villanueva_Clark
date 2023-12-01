@@ -1,0 +1,15 @@
+#title {
+	text-align: center; font-family: sans-serif; font-size: 20px;
+}
+
+#baguio {
+	text-align: center; font-size: 30 px; color: whitesmoke; background-color: red; font-family: sans-serif;
+}
+
+#boracay {
+	text-align: center; color: whitesmoke; background-color: green; font-family: sans-serif;
+}
+
+div {
+	border: 1px solid black;
+}
